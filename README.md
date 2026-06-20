@@ -126,5 +126,3 @@ text
 loadstring(game:HttpGet("https://raw.githubusercontent.com/great-lua/ESP-FOR-UNKNOWN-THREAT-MOBILE/main/esp.lua"))()
 ```
 Just copy the README content into your README.md file on GitHub and use the loadstring for quick execution. Let me know if you need any adjustments!
-
-Этот ответ сгенерирован AI, только для справки.
